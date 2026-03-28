@@ -1,0 +1,106 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="wWjqBThIRCrOWFxUdZX8">
+    <mxGraphModel dx="1501" dy="67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="anoaua6G5tuvN-_qe9In-186" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="424" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-187" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="899" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-188" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="1425.13" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-189" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;" value="" vertex="1">
+          <mxGeometry height="1440.5" width="20" x="818.25" y="399.25" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-190" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="444" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-191" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="914.5" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-192" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="1439" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=18;" value="Инфраструктура" vertex="1">
+          <mxGeometry height="40" width="149" x="331" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=16;" value="Программное обеспечение" vertex="1">
+          <mxGeometry height="40" width="150" x="805.5" y="863" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-195" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Данные" vertex="1">
+          <mxGeometry height="40" width="150" x="1330" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-196" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Интеграции" vertex="1">
+          <mxGeometry height="40" width="150" x="292" y="1316" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-197" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Персонал" vertex="1">
+          <mxGeometry height="40" width="150" x="772" y="1316" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-198" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Процессы" vertex="1">
+          <mxGeometry height="40" width="150" x="1298.13" y="1316" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-199" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;" value="Узкие места при миграции: снижение производительности, простои, потеря данных" vertex="1">
+          <mxGeometry height="220.5" width="219" x="1550" y="1011" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-200" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Недостаточная мощность кластера" vertex="1">
+          <mxGeometry height="313.5" width="20" x="259.25" y="799.25" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-201" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Неподготовленные образы контейнеров" vertex="1">
+          <mxGeometry height="354.75" width="20" x="707.12" y="777.62" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-203" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Лаборатория не готова к новому API" vertex="1">
+          <mxGeometry height="327.64" width="20" x="241.18" y="1072.75" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-206" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Сетевая связность между K8s и legacy" vertex="1">
+          <mxGeometry height="325" width="20" x="278" y="842.5" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-207" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Миграция 1С: файловый -&amp;gt; клиент-сервер" vertex="1">
+          <mxGeometry height="363" width="20" x="726.5" y="823.5" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-209" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Замена OLE на REST -&amp;gt; изменение API" vertex="1">
+          <mxGeometry height="325" width="20" x="279.5" y="1027.5" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-212" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Отсутствие отказоустойчивости" vertex="1">
+          <mxGeometry height="325" width="20" x="297.5" y="892.5" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-214" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Неоптимальные запросы к PostgreSQL" vertex="1">
+          <mxGeometry height="363" width="20" x="752" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-215" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Большой объём исторических данных" vertex="1">
+          <mxGeometry height="345.12" width="20" x="1234.19" y="779.07" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-216" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Нет структуры: Excel, сканы без метаданных" vertex="1">
+          <mxGeometry height="361.87" width="20" x="1250.31" y="819.7" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-217" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Дублирование и несогласованность" vertex="1">
+          <mxGeometry height="348.75" width="20" x="1278.13" y="880.63" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-219" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="ККМ не поддерживает современные протоколы" vertex="1">
+          <mxGeometry height="340.62" width="20" x="202.19" y="1114.07" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-220" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Перегрузка IT-отдела 3 человека" vertex="1">
+          <mxGeometry height="377.75" width="20" x="693.94" y="1047.2" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-221" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Нехватка экспертизы в K8s / микросервисах" vertex="1">
+          <mxGeometry height="377" width="20" x="731.31" y="1001" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-222" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Сопротивление изменениям у бизнес-пользователей" vertex="1">
+          <mxGeometry height="396.43" width="20" x="652.1" y="1085.67" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-223" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Нет плана отката" vertex="1">
+          <mxGeometry height="339.89" width="20" x="1240.65" y="1066.13" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-224" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Отсутствие тестовой среды, идентичной production" vertex="1">
+          <mxGeometry height="332" width="20" x="1276.34" y="1023.5" as="geometry" />
+        </mxCell>
+        <mxCell id="anoaua6G5tuvN-_qe9In-225" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="Слабая коммуникация с руководством о сроках" vertex="1">
+          <mxGeometry height="354.19" width="20" x="1202.31" y="1106.79" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
